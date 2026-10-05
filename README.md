@@ -193,3 +193,5 @@ When new portfolio items or blog notes are published in WordPress:
 - **Secondary Identity:** REYNO07 (used as signature, technical metadata, and footer label)
 - **Compact Mark:** R07
 - Full legal name is excluded from public display.
+
+CI/CD test 10/05/2026 16:28:53
